@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_login">iCafe Mobile</string>
+    <string name="title_signup">Daftar</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_cart">Keranjang</string>
+    <string name="title_cart_detail">Keranjang Detail</string>
+    <string name="title_menu_detail">Menu Detail</string>
+    <string name="app_name">iCafe</string>
+</resources>

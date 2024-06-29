@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47405789064",
+    "project_id": "icafe-5848d",
+    "storage_bucket": "icafe-5848d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47405789064:android:afa91794ccf6ef729c543d",
+        "android_client_info": {
+          "package_name": "com.pab.iCafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiAPkTw4WrG9rFtz8NANPq4SWPzsVIUDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
