@@ -1,0 +1,8 @@
+TUGAS AKHIR PEMROGRAMAN APLIKASI BERGERAK (PAB)
+KELAS TINFC-2021-01 KELOMPOK 2
+
+| Nama | Kelas | NIM |
+| :---: | :---: | :---: | 
+| Muhammad Alif Fathan | TINFC-2021-01 | 20210810049 |
+| Syahrul Firdaus | TINFC-2021-01 | 20210810092 |
+| Aam Amalia | TINFC-2021-01 | 20210810036 |
